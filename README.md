@@ -6,7 +6,8 @@
 
 ##### Me, in one sentence
 
-
+| | | |
+|-|-|-|
 Birthday:|19/06
 Favorite color:|Blue, and any vivid color
 Favorite food:|Colombian Empanadas or Rijstpap
