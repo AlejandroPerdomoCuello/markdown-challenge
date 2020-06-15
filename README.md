@@ -11,7 +11,7 @@
 Birthday:|19/06
 Favorite color:|Blue, and any vivid color
 Favorite food:|Colombian Empanadas or Rijstpap
-Pineapple on pizza:|-[]
+Pineapple on pizza:|- []
 
 ### Hobbies 
 
