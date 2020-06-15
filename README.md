@@ -38,6 +38,7 @@ I can listen to the problem and muster a solution that will statisfy all sides.
 The morning I turned 18, I decided to shave my head. And I did it before sitting down for breakfast. The shock of the family was not that bad, but as soon as I arrived to school, the principal send me to see the psychologist for fear of a mental breakdown.
 
 ###### tl;dr
+When a drastic change is taken too drastically...
 
 
 << [Adnan Abdulaziz Ahmed](https) || Alejandro Jose Perdomo Cuello || [Balder Bongaerts](https://github.com/balderb/markdown-challenge/blob/master/README.md) >>
