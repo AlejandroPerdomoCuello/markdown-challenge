@@ -37,4 +37,4 @@ The morning I turned 18, I decided to shave my head. And I did it before sitting
 ###### tl;dr
 
 
-<< [Adnan](https) || Alejandro Jose Perdomo Cuello || [Balder](https) >>
+<< [Victor Manuel Ortega Rodriguez](https) || Alejandro Jose Perdomo Cuello || [Muhammad Fawad Rafique](https) >>
