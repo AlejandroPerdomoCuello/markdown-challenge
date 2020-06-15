@@ -1,6 +1,6 @@
 # Alejandro Jose Perdomo Vuello
 
-*Your silence will not protec you.*
+*Your silence will not protect you.*
 
 ![](https://github.com/AlejandroPerdomoCuello/markdown-challenge/blob/master/Alejandro%20Jose%20Perdomo%20Cuello%20Foto.jpg)
 
@@ -17,9 +17,9 @@ Pineapple on pizza:|Absolutely
 
 * Driving on an open road with good music, a passenger (optional), and rain if possible.
 * Reading articles regarding the car and tech industry.
-* Testing inux Distros (which includes);
-    * Testing to see which Linux Distro is easiet to use, for family suggestion.
-    * Testing via VirtualBox to see the different features.
+* Testing Linux Distros (which includes):
+    * Testing to see the easiness of each Distro, for suggestions.
+    * Testing via VirtualBox to see the different features each Distro offers.
     * Building a Raspberry Pi (more focus on retro gaming).
 * Dancing like no one is watching.
 * Singing like no one is listening.
@@ -28,7 +28,7 @@ Pineapple on pizza:|Absolutely
 ### You can always count on me when you need help with some tech, or just an ear to listen.
 
 With my past work experience, I have polished my skill to adapt to any new working structure that I encounter.
-My best qualities are my listening and undersstading of a problem and the abiity to find a solution that best fits what the customer, or teammates, feel comfortable with. I will also tackel any problem with no fear of what the solution will be
+I can listen to the problem and muster a solution that will statisfy all sides.
 
 ### A funny story
 
